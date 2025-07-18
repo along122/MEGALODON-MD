@@ -1,8 +1,8 @@
 {
-  "name": "MEGALODON-MD",
-  "description": "Javascript WhatsApp bot made by ᴅʏʙʏ ᴛᴇᴄʜ",
-  "logo": "https://files.catbox.moe/frns4k.jpg",
-  "keywords": ["MEGALODON-MD"],
+  "name": "ALONG",
+  "description": "Javascript WhatsApp bot made by ALONG",
+  "logo": "https://files.catbox.moe/rdn7st.jpg",
+  "keywords": ["ALONG-MD"],
   "success_url": "/",
 
     "stack": "container",
